@@ -2,7 +2,7 @@
 This Repository contains a Python3 code for comparing two images of same size developed by Nachiket Parab. 
 
 Special thanks to Olli-Pekks Heinisuo , the creator of [opencv-python](https://github.com/skvark/opencv-python).
-Thanks to the creators of the creators of [argparse](https://github.com/python/cpython/blob/master/Lib/argparse.py) and [numpy](https://github.com/numpy/numpy) as well.
+Thanks to the  creators of [argparse](https://github.com/python/cpython/blob/master/Lib/argparse.py) and [numpy](https://github.com/numpy/numpy) as well.
 
 ## How to use image_compare_Python
 
